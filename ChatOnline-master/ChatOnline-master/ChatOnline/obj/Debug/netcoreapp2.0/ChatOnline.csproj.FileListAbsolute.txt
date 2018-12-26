@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\studia\webówka\ChatOnline-master\ChatOnline-master\ChatOnline\bin\Debug\netcoreapp2.0\ChatOnline.deps.json
+C:\Users\User\Desktop\studia\webówka\ChatOnline-master\ChatOnline-master\ChatOnline\bin\Debug\netcoreapp2.0\ChatOnline.runtimeconfig.json
+C:\Users\User\Desktop\studia\webówka\ChatOnline-master\ChatOnline-master\ChatOnline\bin\Debug\netcoreapp2.0\ChatOnline.runtimeconfig.dev.json
+C:\Users\User\Desktop\studia\webówka\ChatOnline-master\ChatOnline-master\ChatOnline\bin\Debug\netcoreapp2.0\ChatOnline.dll
+C:\Users\User\Desktop\studia\webówka\ChatOnline-master\ChatOnline-master\ChatOnline\bin\Debug\netcoreapp2.0\ChatOnline.pdb
+C:\Users\User\Desktop\studia\webówka\ChatOnline-master\ChatOnline-master\ChatOnline\obj\Debug\netcoreapp2.0\ChatOnline.csprojAssemblyReference.cache
+C:\Users\User\Desktop\studia\webówka\ChatOnline-master\ChatOnline-master\ChatOnline\obj\Debug\netcoreapp2.0\ChatOnline.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\studia\webówka\ChatOnline-master\ChatOnline-master\ChatOnline\obj\Debug\netcoreapp2.0\ChatOnline.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\studia\webówka\ChatOnline-master\ChatOnline-master\ChatOnline\obj\Debug\netcoreapp2.0\ChatOnline.AssemblyInfo.cs
+C:\Users\User\Desktop\studia\webówka\ChatOnline-master\ChatOnline-master\ChatOnline\obj\Debug\netcoreapp2.0\ChatOnline.dll
+C:\Users\User\Desktop\studia\webówka\ChatOnline-master\ChatOnline-master\ChatOnline\obj\Debug\netcoreapp2.0\ChatOnline.pdb
