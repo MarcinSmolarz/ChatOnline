@@ -7,13 +7,13 @@ namespace ChatOnline.Models
 {
     public class User
     {
-        Guid Id;
-        string Username;
-        string Password;
+        public Guid Id { get; set;}
+        public string Username { get; set; }
+        public string Password { get; set; }
         //cos picture
 
-            
-         public User (Guid _Id, string _Username, string _Password)
+
+        public User (Guid _Id, string _Username, string _Password)
         {
             Id = _Id;
             Username = _Username;

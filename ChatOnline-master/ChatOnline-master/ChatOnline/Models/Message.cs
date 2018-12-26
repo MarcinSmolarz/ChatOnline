@@ -8,10 +8,10 @@ namespace ChatOnline.Models
 {
     public class Message
     {
-        Guid MessageId;
-        Guid OwnerId;
-        string MessageText;
-        DateTime SendTime;
+        public Guid MessageId { get; set; }
+        public Guid OwnerId { get; set; }
+        public string MessageText { get; set; }
+        public DateTime SendTime { get; set; }
 
         public Message(Guid _MessageId, Guid _OwnerId, string _MessageText)
         {
@@ -20,6 +20,7 @@ namespace ChatOnline.Models
             MessageText = _MessageText;
             SendTime = DateTime.Now; 
         }
+
 
 
     }
